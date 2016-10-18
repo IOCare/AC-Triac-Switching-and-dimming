@@ -1,7 +1,7 @@
 # AC-Triac-Switching-and-dimming
 Theories About AC Triac Switching and dimming
 
-#The gate resistor: a bit of theory*
+#The gate resistor: a bit of theory
 
 When cruyising the internet for Triac switches, you may have come across a large diversion 
 in the value of the gate resistor value. My choice usually is to take the lowest value that 
@@ -44,7 +44,9 @@ and build the required charge in the next cycle. Q1 and Q3 are the quadrants for
 
 
 EDITED:
-http://images.elektroda.net/78_1263612065.jpg
+![alt text][logo]![alt text][logo]![alt text][logo]![alt text][logo]![alt text][logo]![alt text][logo]
+![TRIAC Control(http://images.elektroda.net/78_1263612065.jpg "TRIAC Control")
+
 firstly, remember that the circuit works in two conditions:
 
 1. The MOC3020 is not conducting so although there is high voltage across it, the current is very small (leakage only) 
